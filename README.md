@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @phantomglitter
 - 👀 I’m interested in knitting, baking, music, and learning new things!
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Webdev.
 
 <!---
 phantomglitter/phantomglitter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
